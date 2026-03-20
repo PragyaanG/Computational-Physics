@@ -6,4 +6,4 @@ Visualizes Hawking temperature, horizon area, and Bekenstein-Hawking entropy for
 
 **Stack:** Python, NumPy, SciPy, Matplotlib
 
-<img src="Assets/Black-Holes-Plots.jpeg" width="400">
+<img src="Assets/Black-Holes-Plots.jpeg" width="800">
